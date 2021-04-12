@@ -1,3 +1,8 @@
+.github/*
+.editorconfig
+.gitattributes
+.travis.yml
+
 # Vim
 *~
 *.sw[p_]

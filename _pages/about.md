@@ -3,15 +3,13 @@ title: "About"
 permalink: /about/
 layout: single
 author_profile: true
-date: 2021-02-13T17:51:00+00:00
+date: 2021-04-12T13:49:00+00:00
 ---
 
-This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
+Hello,
 
-> Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi'a coladas. (And gettin' caught in the rain.)
+We are the Fiscal Family - an international couple in their 30s and and their adorable toddler, living in Zug - one fiscal year at the time.
 
-...or something like this:
+We like to get the most of our money, therefore we decided to join the fab money blogging community in Switzerland and exchange ideas on everything money related. Needless to say, we are very passionate about our financial goals and budgeting, therefore you can read a lot about topics like essentialism, modern consumption and spending, and just anything relating to ‘money vs value’.  
 
-> The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.
-
-You should probably delete this page and create new pages for your content. Have fun!
+If you take any of our advice, please do so on your own risk as we are not financial advisors. But if you have advice, tips and tricks, or would just like to say ‘Hi’, please feel welcome to do so - we will be more than happy to hear from you!
